@@ -1,0 +1,18 @@
+body{
+    background: rgb(36, 229, 11);
+    display: flex;
+    justify-content: center;
+}
+
+table{
+    width: 100%;
+}
+td,th{
+    border: 1px solid #000;
+}
+td{
+    text-align:  center;
+}
+
+
+
